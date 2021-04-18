@@ -1,0 +1,23 @@
+---
+refresh_interval: 60 # seconds
+urls:
+  - https://www.ple.com.au/Products/643060/eVGA-GeForce-RTX-3080-XC3-Black-10GB-GDDR6X
+  - https://www.ple.com.au/Products/643061/eVGA-GeForce-RTX-3080-XC3-10GB-GDDR6X
+  - https://www.ple.com.au/Products/643062/eVGA-GeForce-RTX-3080-XC3-Ultra-Gaming-10GB-GDDR6X
+  - https://www.ple.com.au/Products/643872/PNY-GeForce-RTX-3080-XLR8-Revel-EPIC-X-RGB-Triple-Fan-10GB-GDDR6X
+  - https://www.ple.com.au/Products/644258/eVGA-GeForce-RTX-3080-XC3-Hybrid-Ultra-10GB-GDDR6X
+  - https://www.ple.com.au/Products/643063/eVGA-GeForce-RTX-3080-FTW3-10GB-GDDR6X
+  - https://www.ple.com.au/Products/643064/eVGA-GeForce-RTX-3080-FTW3-Ultra-10GB-GDDR6X
+  - https://www.ple.com.au/Products/643082/MSI-GeForce-RTX-3080-VENTUS-3X-OC-10GB-GDDR6X
+  - https://www.ple.com.au/Products/644364/eVGA-GeForce-RTX-3080-FTW3-Ultra-Hybrid-10GB-GDDR6
+  - https://www.ple.com.au/Products/643075/ZOTAC-GAMING-GeForce-RTX-3080-Trinity-10GB-GDDR6X
+  - https://www.ple.com.au/Products/643081/MSI-GeForce-RTX-3080-GAMING-X-Trio-10GB-GDDR6X
+  - https://www.ple.com.au/Products/643871/PNY-GeForce-RTX-3080-XLR8-Uprising-EPIC-X-RGB-Triple-Fan-10GB-GDDR6X
+  - https://www.ple.com.au/Products/643554/ZOTAC-GAMING-GeForce-RTX-3080-Trinity-OC-10GB-GDDR6X
+  - https://www.pccasegear.com/products/53436/pny-geforce-rtx-3080-xlr8-uprising-epic-x-rgb-10gb
+  - https://www.scorptec.com.au/product/graphics-cards/nvidia/85269-10g-p5-3883-kr
+  - https://www.scorptec.com.au/product/graphics-cards/nvidia/85193-10g-p5-3881-kr
+  - https://www.scorptec.com.au/product/graphics-cards/nvidia/85334-c30804-106xx-1810va36
+  - https://cplonline.com.au/graphics-cards/geforce-rtx-3080/evga-geforce-rtx-3080-ftw3-gaming-10g-p5-3895-kr-10gb-gddr6x-icx3-technology-argb-led-metal-backplate-hdmi-dpx3.html
+  - https://cplonline.com.au/graphics-cards/geforce-rtx-3080/inno3d-c30803-106xx-1810va37-geforce-rtx-3080-ichill-x3-10g.html
+...
