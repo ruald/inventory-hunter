@@ -32,7 +32,7 @@ class PLEScrapeResult(ScrapeResult):
 
 
 @ScraperFactory.register
-class BestBuyScraper(Scraper):
+class PLEScraper(Scraper):
     @staticmethod
     def get_domain():
         return 'ple'
