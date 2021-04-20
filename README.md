@@ -24,7 +24,7 @@ These steps *should* work on any supported Docker platform, but they have been s
 1. Clone this repository and pull the latest image from [Docker Hub](https://hub.docker.com/r/ericjmarti/inventory-hunter):
     ```
     pi@raspberrypi:~
-    $ git clone https://github.com/EricJMarti/inventory-hunter
+    $ git clone https://github.com/ruald/inventory-hunter
 
     pi@raspberrypi:~
     $ cd inventory-hunter

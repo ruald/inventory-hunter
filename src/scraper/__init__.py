@@ -10,6 +10,7 @@ import scraper.gamestop
 import scraper.microcenter
 import scraper.mikescomputershop
 import scraper.newegg
+import scraper.ple
 import scraper.playstation
 import scraper.samsclub
 import scraper.toysrus
